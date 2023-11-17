@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: azure;
+}
+
+.pack {
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
+
+.question-container {
+  margin-top: 2rem;
+}
+
+.wrappaer {
+  display: flex;
+  justify-content: center;
+}
+.answers-cntainer {
+  text-align: left;
+}
+
+.start-button {
+  margin-top: 2rem;
+  text-align: left;
+  font-size: 1.2rem;
+}
+.button {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  display: inline-block;
+}
